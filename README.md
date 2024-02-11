@@ -36,8 +36,10 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
-## Api
-| Api | Link |
-| ------ | ------ |
-| Formula One API | <a href = "https://openf1.org/"> https://openf1.org/ </a>| 
+
+## API
+
+| Api             | Link                      |
+|-----------------|---------------------------|
+| Formula One API| [https://openf1.org/](https://openf1.org/) |
 
