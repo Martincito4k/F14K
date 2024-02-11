@@ -25,7 +25,7 @@ class _RealtimePageState extends State<RealtimePage> {
   Future<List<RealtimeData>> getRealtimeData() async {
   try {
     final dio = Dio();
-    final response = await dio.get('https://api.openf1.org/v1/intervals?session_key=9165&interval%3C0.005');
+    final response = await dio.get('https://api.openf1.org/v1/intervals');
 
     if (response.statusCode == 200) {
       return realtimeDataFromJson(json.encode(response.data!));
