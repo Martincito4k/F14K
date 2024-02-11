@@ -21,11 +21,13 @@
 
 <p align="center">
   <img src="lib/assets/Preview/Home.jpg" width="200" >
-<br>
+
   <img src="lib/assets/Preview/Drivers.jpg" width="200" >
-<br>
+
   <img src="lib/assets/Preview/Realtime.jpg" width="200" >
+<br>
 - If there is no race currently ongoing, this is the message that should appear:
+<br>
   <img src="lib/assets/Preview/RealtimeError.jpg" width="200" >
 </p>
 
